@@ -1,4 +1,4 @@
-https://githubtocolab.com/skrankov/Churn_Modelling/blob/main/ChurnModellingProject.ipynb
+https://nbviewer.org/github/awpxxda/Churn_Modelling/blob/main/ChurnModellingProject.ipynb
 
 # Анализ оттока клиентов банка (Churn Modelling)
 
